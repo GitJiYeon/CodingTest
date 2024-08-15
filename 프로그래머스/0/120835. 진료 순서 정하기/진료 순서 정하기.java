@@ -1,5 +1,4 @@
 
-import java.util.Arrays;
 class Solution {
     public int[] solution(int[] emergency) {
         int[] em2 = new int[emergency.length];
