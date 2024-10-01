@@ -1,10 +1,10 @@
 # [level 0] n의 배수 고르기 - 120905 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120905) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=csharp) 
 
 ### 성능 요약
 
-메모리: 76 MB, 시간: 0.02 ms
+메모리: 30.9 MB, 시간: 0.30 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 08일 23:54:33
+2024년 10월 02일 00:01:50
 
 ### 문제 설명
 
