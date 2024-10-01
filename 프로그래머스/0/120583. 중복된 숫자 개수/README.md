@@ -1,10 +1,10 @@
 # [level 0] 중복된 숫자 개수 - 120583 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120583?language=c) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120583?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.44 MB, 시간: 0.01 ms
+메모리: 31.3 MB, 시간: 0.17 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 01일 08:12:35
+2024년 10월 02일 08:37:52
 
 ### 문제 설명
 
