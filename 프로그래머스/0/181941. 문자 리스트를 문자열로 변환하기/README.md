@@ -1,10 +1,10 @@
 # [level 0] 문자 리스트를 문자열로 변환하기 - 181941 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181941) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181941?language=csharp) 
 
 ### 성능 요약
 
-메모리: 75.7 MB, 시간: 3.50 ms
+메모리: 31.1 MB, 시간: 0.27 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 17일 23:25:53
+2024년 10월 02일 08:53:01
 
 ### 문제 설명
 
