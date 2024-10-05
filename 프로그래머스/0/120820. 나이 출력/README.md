@@ -1,10 +1,10 @@
 # [level 0] 나이 출력 - 120820 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=csharp) 
 
 ### 성능 요약
 
-메모리: 75.7 MB, 시간: 0.01 ms
+메모리: 31.5 MB, 시간: 0.22 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 08일 08:06:17
+2024년 10월 05일 22:27:18
 
 ### 문제 설명
 
