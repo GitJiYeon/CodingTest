@@ -1,10 +1,10 @@
 # [level 0] 홀수 vs 짝수 - 181887 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181887) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181887?language=csharp) 
 
 ### 성능 요약
 
-메모리: 74.2 MB, 시간: 0.04 ms
+메모리: 31.4 MB, 시간: 0.29 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 14일 22:16:18
+2024년 10월 07일 17:23:12
 
 ### 문제 설명
 
