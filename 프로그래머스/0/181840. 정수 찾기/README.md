@@ -1,10 +1,10 @@
 # [level 0] 정수 찾기 - 181840 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181840) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181840?language=csharp) 
 
 ### 성능 요약
 
-메모리: 78.7 MB, 시간: 0.03 ms
+메모리: 31.4 MB, 시간: 0.25 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 05일 10:35:44
+2024년 10월 07일 17:24:29
 
 ### 문제 설명
 
