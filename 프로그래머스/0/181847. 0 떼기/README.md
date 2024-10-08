@@ -1,10 +1,10 @@
 # [level 0] 0 떼기 - 181847 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181847) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181847?language=csharp) 
 
 ### 성능 요약
 
-메모리: 72.7 MB, 시간: 0.04 ms
+메모리: 31.3 MB, 시간: 0.64 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 16일 13:21:04
+2024년 10월 08일 23:02:57
 
 ### 문제 설명
 
