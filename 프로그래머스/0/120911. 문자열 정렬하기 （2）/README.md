@@ -1,10 +1,10 @@
 # [level 0] 문자열 정렬하기 (2) - 120911 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120911) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120911?language=csharp) 
 
 ### 성능 요약
 
-메모리: 76.4 MB, 시간: 0.59 ms
+메모리: 31 MB, 시간: 1.88 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 26일 20:32:58
+2024년 10월 12일 13:41:32
 
 ### 문제 설명
 
