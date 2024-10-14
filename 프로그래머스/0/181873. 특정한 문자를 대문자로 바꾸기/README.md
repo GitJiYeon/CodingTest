@@ -1,10 +1,10 @@
 # [level 0] 특정한 문자를 대문자로 바꾸기 - 181873 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181873) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181873?language=csharp) 
 
 ### 성능 요약
 
-메모리: 72.5 MB, 시간: 0.11 ms
+메모리: 31.1 MB, 시간: 0.55 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 23일 10:33:09
+2024년 10월 14일 23:54:39
 
 ### 문제 설명
 
