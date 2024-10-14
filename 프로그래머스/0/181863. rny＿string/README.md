@@ -1,10 +1,10 @@
 # [level 0] rny_string - 181863 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181863) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=csharp) 
 
 ### 성능 요약
 
-메모리: 75.3 MB, 시간: 0.05 ms
+메모리: 31.3 MB, 시간: 0.56 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 25일 23:04:39
+2024년 10월 14일 23:49:50
 
 ### 문제 설명
 
