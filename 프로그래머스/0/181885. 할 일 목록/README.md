@@ -1,10 +1,10 @@
 # [level 0] 할 일 목록 - 181885 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181885) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181885?language=csharp) 
 
 ### 성능 요약
 
-메모리: 76.6 MB, 시간: 0.03 ms
+메모리: 31.1 MB, 시간: 0.21 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 11일 11:11:58
+2024년 10월 16일 23:52:04
 
 ### 문제 설명
 
