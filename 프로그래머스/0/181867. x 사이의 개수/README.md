@@ -1,10 +1,10 @@
 # [level 0] x 사이의 개수 - 181867 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181867) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181867?language=csharp) 
 
 ### 성능 요약
 
-메모리: 91.1 MB, 시간: 9.10 ms
+메모리: 32.2 MB, 시간: 1.22 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 20일 21:23:28
+2024년 10월 16일 23:55:28
 
 ### 문제 설명
 
