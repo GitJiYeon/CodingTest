@@ -1,10 +1,10 @@
 # [level 0] 주사위의 개수 - 120845 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120845) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120845?language=csharp) 
 
 ### 성능 요약
 
-메모리: 71.7 MB, 시간: 0.03 ms
+메모리: 31.1 MB, 시간: 0.14 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 06일 23:17:01
+2024년 10월 20일 22:49:11
 
 ### 문제 설명
 
