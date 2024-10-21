@@ -1,10 +1,10 @@
 # [level 0] 카운트 다운 - 181899 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181899) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181899?language=csharp) 
 
 ### 성능 요약
 
-메모리: 63.8 MB, 시간: 0.01 ms
+메모리: 31.7 MB, 시간: 0.18 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 11일 20:41:26
+2024년 10월 22일 08:13:51
 
 ### 문제 설명
 
