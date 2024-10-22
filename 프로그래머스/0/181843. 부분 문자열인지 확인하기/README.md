@@ -1,10 +1,10 @@
 # [level 0] 부분 문자열인지 확인하기 - 181843 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181843) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181843?language=csharp) 
 
 ### 성능 요약
 
-메모리: 74.5 MB, 시간: 0.07 ms
+메모리: 30.9 MB, 시간: 0.24 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 03일 23:30:16
+2024년 10월 23일 08:45:46
 
 ### 문제 설명
 
