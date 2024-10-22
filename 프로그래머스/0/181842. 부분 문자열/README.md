@@ -1,10 +1,10 @@
 # [level 0] 부분 문자열 - 181842 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181842) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181842?language=csharp) 
 
 ### 성능 요약
 
-메모리: 73.8 MB, 시간: 0.04 ms
+메모리: 31.3 MB, 시간: 0.23 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 03일 23:43:06
+2024년 10월 23일 08:30:47
 
 ### 문제 설명
 
