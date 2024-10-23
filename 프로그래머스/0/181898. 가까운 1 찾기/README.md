@@ -1,10 +1,10 @@
 # [level 0] 가까운 1 찾기 - 181898 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181898) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181898?language=csharp) 
 
 ### 성능 요약
 
-메모리: 74.5 MB, 시간: 0.61 ms
+메모리: 32.8 MB, 시간: 0.31 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 15일 10:40:16
+2024년 10월 23일 10:39:46
 
 ### 문제 설명
 
