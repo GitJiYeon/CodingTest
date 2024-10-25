@@ -1,10 +1,10 @@
 # [level 0] 마지막 두 원소 - 181927 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181927) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181927?language=csharp) 
 
 ### 성능 요약
 
-메모리: 72.9 MB, 시간: 0.03 ms
+메모리: 31.5 MB, 시간: 0.32 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 15일 09:01:44
+2024년 10월 25일 13:57:10
 
 ### 문제 설명
 
