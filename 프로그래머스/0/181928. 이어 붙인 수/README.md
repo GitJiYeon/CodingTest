@@ -1,10 +1,10 @@
 # [level 0] 이어 붙인 수 - 181928 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181928) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181928?language=csharp) 
 
 ### 성능 요약
 
-메모리: 74.3 MB, 시간: 0.03 ms
+메모리: 31 MB, 시간: 0.30 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 18일 23:02:25
+2024년 10월 29일 11:02:52
 
 ### 문제 설명
 
