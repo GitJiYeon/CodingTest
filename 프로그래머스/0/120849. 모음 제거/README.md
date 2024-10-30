@@ -1,10 +1,10 @@
 # [level 0] 모음 제거 - 120849 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120849) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120849?language=csharp) 
 
 ### 성능 요약
 
-메모리: 70.4 MB, 시간: 0.03 ms
+메모리: 30.8 MB, 시간: 0.50 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 22일 18:47:39
+2024년 10월 31일 08:23:03
 
 ### 문제 설명
 
