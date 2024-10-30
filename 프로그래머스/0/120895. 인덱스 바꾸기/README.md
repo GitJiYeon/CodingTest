@@ -1,10 +1,10 @@
 # [level 0] 인덱스 바꾸기 - 120895 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120895) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=csharp) 
 
 ### 성능 요약
 
-메모리: 78.7 MB, 시간: 0.04 ms
+메모리: 31 MB, 시간: 0.55 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 25일 08:32:16
+2024년 10월 30일 10:25:49
 
 ### 문제 설명
 
