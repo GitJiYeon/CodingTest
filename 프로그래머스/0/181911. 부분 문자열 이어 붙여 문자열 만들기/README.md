@@ -1,10 +1,10 @@
 # [level 0] 부분 문자열 이어 붙여 문자열 만들기 - 181911 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181911) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181911?language=csharp) 
 
 ### 성능 요약
 
-메모리: 110 MB, 시간: 34.99 ms
+메모리: 47.5 MB, 시간: 57.92 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 28일 09:50:26
+2024년 11월 04일 07:52:39
 
 ### 문제 설명
 
