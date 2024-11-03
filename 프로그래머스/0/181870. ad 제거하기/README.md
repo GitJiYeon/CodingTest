@@ -1,10 +1,10 @@
 # [level 0] ad 제거하기 - 181870 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181870) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181870?language=csharp) 
 
 ### 성능 요약
 
-메모리: 74.1 MB, 시간: 1.04 ms
+메모리: 31.3 MB, 시간: 0.51 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 04일 12:05:18
+2024년 11월 03일 22:43:42
 
 ### 문제 설명
 
