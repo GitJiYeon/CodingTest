@@ -1,10 +1,10 @@
 # [level 0] 배열의 유사도 - 120903 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120903) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=csharp) 
 
 ### 성능 요약
 
-메모리: 76.3 MB, 시간: 0.02 ms
+메모리: 31 MB, 시간: 0.20 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 08일 19:46:12
+2024년 11월 16일 17:18:20
 
 ### 문제 설명
 
