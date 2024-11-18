@@ -1,10 +1,10 @@
 # [level 0] 숫자 찾기 - 120904 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120904) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=csharp) 
 
 ### 성능 요약
 
-메모리: 79.1 MB, 시간: 0.04 ms
+메모리: 31.5 MB, 시간: 0.65 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 25일 23:24:46
+2024년 11월 18일 23:26:12
 
 ### 문제 설명
 
