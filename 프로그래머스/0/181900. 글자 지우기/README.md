@@ -1,10 +1,10 @@
 # [level 0] 글자 지우기 - 181900 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181900) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181900?language=csharp) 
 
 ### 성능 요약
 
-메모리: 85.3 MB, 시간: 15.47 ms
+메모리: 31 MB, 시간: 0.44 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 06일 23:54:20
+2024년 12월 04일 23:56:17
 
 ### 문제 설명
 
