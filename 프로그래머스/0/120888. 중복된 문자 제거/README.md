@@ -1,10 +1,10 @@
 # [level 0] 중복된 문자 제거 - 120888 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120888) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=csharp) 
 
 ### 성능 요약
 
-메모리: 77.2 MB, 시간: 14.69 ms
+메모리: 31.1 MB, 시간: 0.29 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 08일 23:19:59
+2024년 12월 05일 08:29:15
 
 ### 문제 설명
 
