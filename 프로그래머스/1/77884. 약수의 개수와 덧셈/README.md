@@ -1,10 +1,10 @@
 # [level 1] 약수의 개수와 덧셈 - 77884 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77884) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77884?language=csharp) 
 
 ### 성능 요약
 
-메모리: 67.5 MB, 시간: 4.89 ms
+메모리: 31.4 MB, 시간: 1.84 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 14일 10:49:43
+2024년 12월 12일 13:27:51
 
 ### 문제 설명
 
