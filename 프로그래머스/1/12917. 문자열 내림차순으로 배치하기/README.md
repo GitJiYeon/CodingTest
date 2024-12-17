@@ -1,10 +1,10 @@
 # [level 1] 문자열 내림차순으로 배치하기 - 12917 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=csharp) 
 
 ### 성능 요약
 
-메모리: 76.9 MB, 시간: 3.23 ms
+메모리: 31.5 MB, 시간: 0.63 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 19일 08:32:40
+2024년 12월 17일 19:28:31
 
 ### 문제 설명
 
