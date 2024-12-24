@@ -1,6 +1,6 @@
 # [level 0] 등수 매기기 - 120882 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120882) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120882#qna) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 24일 09:36:39
+2024년 12월 24일 09:37:27
 
 ### 문제 설명
 
