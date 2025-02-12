@@ -1,10 +1,10 @@
 # [level 0] 옷가게 할인 받기 - 120818 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120818?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120818?language=python3) 
 
 ### 성능 요약
 
-메모리: 31.4 MB, 시간: 0.30 ms
+메모리: 10.1 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 09일 23:42:42
+2025년 02월 12일 20:05:52
 
 ### 문제 설명
 
