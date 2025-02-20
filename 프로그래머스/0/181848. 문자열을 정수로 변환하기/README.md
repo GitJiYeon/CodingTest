@@ -1,10 +1,10 @@
 # [level 0] 문자열을 정수로 변환하기 - 181848 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181848?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181848?language=python3) 
 
 ### 성능 요약
 
-메모리: 31.4 MB, 시간: 0.71 ms
+메모리: 10.2 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 02일 08:57:15
+2025년 02월 21일 01:44:53
 
 ### 문제 설명
 
