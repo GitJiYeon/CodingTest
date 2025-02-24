@@ -1,10 +1,10 @@
 # [level 0] 문자열의 앞의 n글자 - 181907 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181907?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181907?language=python3) 
 
 ### 성능 요약
 
-메모리: 31.4 MB, 시간: 0.35 ms
+메모리: 10.2 MB, 시간: 0.09 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 22일 08:17:53
+2025년 02월 24일 23:05:20
 
 ### 문제 설명
 
