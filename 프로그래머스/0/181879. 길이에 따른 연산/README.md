@@ -1,10 +1,10 @@
 # [level 0] 길이에 따른 연산 - 181879 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181879?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181879?language=python3) 
 
 ### 성능 요약
 
-메모리: 31.3 MB, 시간: 0.19 ms
+메모리: 10.1 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 19일 22:33:21
+2025년 03월 02일 22:43:23
 
 ### 문제 설명
 
