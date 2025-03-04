@@ -1,10 +1,10 @@
 # [level 0] 암호 해독 - 120892 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120892) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=csharp) 
 
 ### 성능 요약
 
-메모리: 74.8 MB, 시간: 9.53 ms
+메모리: 31.9 MB, 시간: 0.93 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 21일 22:19:25
+2025년 03월 05일 08:16:28
 
 ### 문제 설명
 
