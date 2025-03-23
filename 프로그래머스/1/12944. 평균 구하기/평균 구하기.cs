@@ -1,10 +1,8 @@
+using System;
+using System.Linq; // LINQ
+
 public class Solution {
     public double solution(int[] arr) {
-       double answer = 0;
-        for(int i = 0; i < arr.Length; i++ ){
-            answer += arr[i];
-        }
-        answer /= arr.Length;
-        return answer;
+        return arr.Any() ? arr.Average() : 0;
     }
 }
