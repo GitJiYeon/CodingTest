@@ -1,10 +1,10 @@
 # [level 1] 서울에서 김서방 찾기 - 12919 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12919) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=python3) 
 
 ### 성능 요약
 
-메모리: 31.4 MB, 시간: 0.44 ms
+메모리: 9.29 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 04일 13:23:47
+2025년 05월 04일 13:25:26
 
 ### 문제 설명
 
