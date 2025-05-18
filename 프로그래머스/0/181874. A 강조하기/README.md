@@ -1,10 +1,10 @@
 # [level 0] A 강조하기 - 181874 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181874) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181874?language=javascript) 
 
 ### 성능 요약
 
-메모리: 9.93 MB, 시간: 0.01 ms
+메모리: 33.3 MB, 시간: 0.16 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 16일 23:56:59
+2025년 05월 18일 23:40:08
 
 ### 문제 설명
 
