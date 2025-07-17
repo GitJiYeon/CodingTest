@@ -8,7 +8,7 @@ function solution(participant, completion) {
     }
     return participant.pop();
 }
-
+//이거 해시문제에요.. 언젠간 해시로 다시 풀어보시길
 
 /*큐로 구현 (개느림)
 function solution(participant, completion) {
