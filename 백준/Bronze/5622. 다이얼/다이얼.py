@@ -1,13 +1,19 @@
 userInput = input()
-pair = [[], ['A','B','C'], ['D', 'E', 'F'], ['G', 'H', 'I'],
-       ['J', 'K', 'L'], ['M', 'N', 'O'], ['P', 'Q', 'R', 'S'],
-        ['T', 'U', 'V'], ['W', 'X', 'Y', 'Z']]
+pair = {
+    'A':3,'B':3,'C':3,
+    'D':4,'E':4,'F':4,
+    'G':5,'H':5,'I':5,
+    'J':6,'K':6,'L':6,
+    'M':7,'N':7,'O':7,
+    'P':8,'Q':8,'R':8,'S':8,
+    'T':9,'U':9,'V':9,
+    'W':10,'X':10,'Y':10,'Z':10
+}
 
-answer = len(userInput)
-for x in userInput:
-    for i in range(len(pair)):
-        for j in range(len(pair[i])):
-            if pair[i][j] == x:
-                answer += 1+i
+answer = 0
+
+for t in userInput:
+    answer += pair[t]
 
 print(answer)
+#시간 고려
